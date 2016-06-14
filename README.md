@@ -25,4 +25,4 @@ This project was made as a Mobile Coding Test for Bizagi.
 ## How to execute the project
 
 - The project contains all the dependencies on the build.gradle file. 
-- Open the project on Android Studio and build and run it.
+- Open the project on Android Studio, build and run it.
