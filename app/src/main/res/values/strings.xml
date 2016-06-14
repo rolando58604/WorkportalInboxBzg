@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Workportal Inbox Bizagi</string>
+    <string name="inbox">Inbox</string>
+    <string name="about">Esta es una aplicación hecha por Rolando Amarillo como Mobile Coding Test para Bizagi</string>
+    <string name="days">Días requeridos: %1s</string>
+    <string name="review">Revisar Petición</string>
+</resources>
